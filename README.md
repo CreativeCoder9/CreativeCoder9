@@ -1,18 +1,20 @@
 ### Hi there 👋
 Hello,
-A passionate MERN stack developer who enjoys applying his skills to design & develop applications with great user experience. Loves to tinker with newer technologies & implement them to solve problems efficiently. Though a lot of things are still left to learn, I am open to challenges.
+A passionate FULL stack developer who enjoys applying his skills to design & develop applications with great user experience. Loves to tinker with newer technologies & implement them to solve problems efficiently. Though a lot of things are still left to learn, I am open to challenges.
 
 👨‍💻 Check out my projects here!
+     https://suman-ghosh-portfolio.bss.design/
 
 📫 Feel free to connect with me here
+     linkedin: https://www.linkedin.com/in/suman-ghosh99/
 
 
 Programming languages:
-     git github 
+     Javascript, PHP, Python, Java, Bash
 
-Frameworks and Libraries:
-  express mongodb
-
+Frameworks. Libraries & Technologies:
+     Vue.js, Flask, WordPress, Postgres, Redis, Google Analytics, Twilio
+  
 Contact Me :
 Github Github
 
