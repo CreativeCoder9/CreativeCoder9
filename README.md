@@ -16,7 +16,7 @@ Frameworks. Libraries & Technologies:
      Vue.js, Flask, WordPress, Postgres, Redis, Google Analytics, Twilio
   
 Contact Me :
-Github Github
+Please reach out to me via linkedIn :)
 
 
 
