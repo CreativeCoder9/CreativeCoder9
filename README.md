@@ -10,10 +10,10 @@ A passionate FULL stack developer who enjoys applying his skills to design & dev
 
 
 Programming languages:
-     Javascript, PHP, Python, Java, Bash, Dart
+     Javascript, Python (Proficient working knowledge). Have played with Bash scripting, Java, C, Flutter & PHP
 
 Frameworks, Libraries & Technologies:
-     Vue.js, Flask, WordPress, Postgres, Redis, Google Analytics, Twilio, React.js, Supabase, Firebase, Flutter, Digital marketing 
+     Vue.js, Flask, WordPress, Postgres, Redis, Google Analytics, Twilio, React.js, Supabase, Firebase, Next.js, Payload CMS
   
 Contact Me :
 Please reach out to me via linkedIn :)
