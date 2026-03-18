@@ -9,11 +9,11 @@ A passionate FULL stack developer who enjoys applying his skills to design & dev
      linkedin: https://www.linkedin.com/in/suman-ghosh99/
 
 
-Programming languages:
+**Programming languages:**
      Javascript, Typescript, Python (Proficient working knowledge). Have played with Bash scripting, C, Java, C, Dart & PHP
 
-Frameworks, Libraries & Technologies:
-     Vue.js, Flask, WordPress, N8N (workflow automation, Dify(agentic ai automations), Postgres, Redis, Google Analytics, Twilio, React.js, React Native, Flutter, Supabase, Firebase, Next.js, Payload CMS
+**Frameworks, Libraries & Technologies:**
+     Vue.js,  React.js, React Native, Flutter, Flask, WordPress, N8N (workflow automation0, Dify(agentic ai automations), Postgres, Redis, Google Analytics, Twilio, Supabase, Firebase, Next.js, Payload CMS
   
 Contact Me :
 Please reach out to me via linkedIn :)
