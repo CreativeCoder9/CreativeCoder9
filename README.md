@@ -13,26 +13,7 @@ A passionate FULL stack developer who enjoys applying his skills to design & dev
      Javascript, Typescript, Python (Proficient working knowledge). Have played with Bash scripting, C, Java, Dart & PHP
 
 **Frameworks, Libraries & Technologies:**
-     Vue.js,  React.js, React Native, Flutter, Flask, WordPress, N8N (workflow automation0, Dify(agentic ai automations), Postgres, Redis, Google Analytics, Twilio, Supabase, Firebase, Next.js, Payload CMS
+     Vue.js,  React.js, React Native (EXPO), Flutter, Flask, WordPress, N8N (workflow automation), Google ADK & Langchain for programmatic agentic AI development, Dify(agentic ai automations), Postgres, Redis, Google Analytics, Twilio, Supabase, Firebase, Databases(Postgres, MySql, Sqlite, Turso DB), Next.js, Payload CMS
   
 Contact Me :
 Please reach out to me via linkedIn :)
-
-
-
-
-
-<!--
-**CreativeCoder9/CreativeCoder9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
